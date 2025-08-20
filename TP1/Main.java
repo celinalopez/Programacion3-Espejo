@@ -9,6 +9,5 @@ public class Main {
         lista.add(new Estudiante("Pedro", "López", 23, "54321", "Medicina"));
 
         System.out.println(lista);
-        System.out.println("asd");
     }
 }
