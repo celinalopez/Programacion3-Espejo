@@ -6,7 +6,7 @@ import lombok.AllArgsConstructor;
 
 @Getter
 @Setter
-@NoArgsConstructor       // Constructor vacío
+@NoArgsConstructor       // Constructor vacio
 @AllArgsConstructor     // Constructor con todos los atributos
 public class Persona {
     private String nombre;
